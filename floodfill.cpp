@@ -1,4 +1,4 @@
-/#include <GL/glut.h>  
+#include <GL/glut.h>  
 int ww = 600, wh = 500;
 float bgCol[3] = { 0.0,0.9,0.7 };
 float intCol[3] = { 1.0,0.0,0.0 };
